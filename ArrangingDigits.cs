@@ -9,7 +9,7 @@ using System.Text;
 
 namespace DPSolns
 {
-    class arrandingDigits
+    class arrangingDigits
     {
         static void Main(string[] args)
         {
